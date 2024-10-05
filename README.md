@@ -3,7 +3,9 @@
 
 - 📫 How to reach me **Daniel23232326@gmail.com**
 - 🔭 I’m currently working as a Project Engineer at Acer AEB
-- 📄 Graduated from the Department of Computer Science in National Taipei University of Education 
+- 💬
+- 📝
+- 📄 Graduated from the Department of Computer Science at National Taipei University of Education 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
