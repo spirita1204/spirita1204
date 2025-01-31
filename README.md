@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Daniel Chen</h1>
-<h3 align="center">A FullStack Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Daniel Chen ⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞</h1>
+<h3 align="center">🖥️ A FullStack Software Engineer</h3>
 
 - 📫 How to reach me **Daniel23232326@gmail.com**
-- 🔭 Currently working as a Project Engineer at <a href="https://www.aceraeb.com/mainssl/modules/MySpace/index.php?sn=acer"> Acer AEB</a>
-- 💬 Worked at PTSC from 2023 to 2024
-- 📝 As a Backend intern at Cybersoft in 2022.
-- 📄 Graduated from the Department of Computer Science at National Taipei University of Education 
+- 🍀 Currently working as a Project Engineer at <a href="https://www.aceraeb.com/mainssl/modules/MySpace/index.php?sn=acer"> Acer AEB</a>
+- 👨🏻‍💻 Worked at PTSC from 2023 to 2024
+- 💼 As a Backend intern at Cybersoft in 2022.
+- 🎓 Graduated from the Department of Computer Science at National Taipei University of Education
+- 🏫 Received the Certificate of Excellence at NTUE
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
