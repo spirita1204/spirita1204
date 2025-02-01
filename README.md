@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Chen ⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞</h1>
 <h3 align="center">🖥️ A FullStack Software Engineer</h3>
 
+<img src="https://raw.githubusercontent.com/spirita1204/spirita1204/main/white.jpg" align="right" width="300px" style=max-width:50vw;>
+
 <h3 align="left">About Me:</h3>
 
 - 📫 How to reach me **Daniel23232326@gmail.com**
