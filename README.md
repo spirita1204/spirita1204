@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Chen ⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞</h1>
 <h3 align="center">🖥️ A FullStack Software Engineer</h3>
 
+<h3 align="left">About Me:</h3>
+
 - 📫 How to reach me **Daniel23232326@gmail.com**
 - 🍀 Currently working as a Software Engineer at <a href="https://www.aceraeb.com/mainssl/modules/MySpace/index.php?sn=acer"> Acer AEB</a>
 - 👨🏻‍💻 Worked at PTSC from 2023 to 2024
@@ -37,6 +39,8 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>    
 
+<h3 align="left">My Stats:</h3>
+
 ![GitHub Snake Light](https://raw.githubusercontent.com/spirita1204/spirita1204/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/spirita1204/spirita1204/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
@@ -45,6 +49,8 @@
    <img src="https://streak-stats.demolab.com?user=spirita1204" alt="nater6"  height="180em" />
 </a>
 <br><br>
+
+*****
 
 <p align="center">
 <a href="mailto:info@daniel23232326@gmail.com"><img src="https://img.shields.io/badge/-info@daniel23232326.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
