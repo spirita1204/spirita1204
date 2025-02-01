@@ -38,11 +38,12 @@
 </p>    
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirita1204&hide_progress=false&layout=compact">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirita1204&hide_progress=false&layout=compact" height="200">
+   <img align="center" src="https://streak-stats.demolab.com?user=spirita1204" alt="nater6" height="200" />
 </p>
-<p align="center"> 
-  <img align="center" src="https://streak-stats.demolab.com?user=spirita1204" alt="nater6" />
-</p>
+
+
+  
 
 <p align="center">
 <a href="mailto:info@daniel23232326@gmail.com"><img src="https://img.shields.io/badge/-info@daniel23232326.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
