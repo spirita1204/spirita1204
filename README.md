@@ -2,7 +2,7 @@
 <h3 align="center">🖥️ A FullStack Software Engineer</h3>
 
 - 📫 How to reach me **Daniel23232326@gmail.com**
-- 🍀 Currently working as a Project Engineer at <a href="https://www.aceraeb.com/mainssl/modules/MySpace/index.php?sn=acer"> Acer AEB</a>
+- 🍀 Currently working as a Software Engineer at <a href="https://www.aceraeb.com/mainssl/modules/MySpace/index.php?sn=acer"> Acer AEB</a>
 - 👨🏻‍💻 Worked at PTSC from 2023 to 2024
 - 💼 As a Backend intern at Cybersoft in 2022.
 - 🎓 Graduated from the Department of Computer Science at National Taipei University of Education
