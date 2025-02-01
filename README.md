@@ -37,13 +37,13 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>    
 
+![GitHub Snake Light](https://raw.githubusercontent.com/spirita1204/spirita1204/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/spirita1204/spirita1204/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirita1204&hide_progress=false&layout=compact" height="200">
    <img align="center" src="https://streak-stats.demolab.com?user=spirita1204" alt="nater6" height="200" />
 </p>
-
-
-  
 
 <p align="center">
 <a href="mailto:info@daniel23232326@gmail.com"><img src="https://img.shields.io/badge/-info@daniel23232326.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
