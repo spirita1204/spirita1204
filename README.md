@@ -11,6 +11,7 @@
 - 💼 As a Backend intern at Cybersoft in 2022.
 - 🎓 Graduated from the Department of Computer Science at National Taipei University of Education
 - 🏫 Received the Certificate of Excellence at NTUE
+- 🌎 My blog **https://spirita1204.notion.site/daniel**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
