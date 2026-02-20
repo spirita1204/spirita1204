@@ -47,10 +47,6 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/spirita1204/spirita1204/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/spirita1204/spirita1204/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<a href="https://github.com/spirita1204">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirita1204&hide_progress=false&layout=compact" height="180em">
-   <!--<img src="https://streak-stats.demolab.com?user=spirita1204" alt="nater6"  height="180em" />-->
-</a>
 <br><br>
 
 *****
