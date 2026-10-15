@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **Daniel23232326@gmail.com**
 - 🍀 Currently working as a Software Engineer at IGS </a>
-- 🎓 Graduated from the Department of Computer Science at National Taipei University of Education
-- 🏫 Received the Certificate of Excellence at NTUE
+- 🎓 Graduated from the Department of Computer Science
+- 🏫 Received the Certificate of Excellence 
 - 🌎 My blog **https://spirita1204.notion.site/daniel**
   
 <h3 align="left">Connect with me:</h3>
